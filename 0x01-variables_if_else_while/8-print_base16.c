@@ -8,10 +8,10 @@ int main(void)
 	int num;
 	int hex;
 
-	for (num = 48; num < 58; n++)
+	for (num = 48; num < 58; num++)
 		putchar(num);
 	for (hex = 'a'; hex <= 'f'; hex++)
-		putchar(num);
+		putchar(hex);
 	putchar('\n');
 	return (0);
 }
