@@ -1,0 +1,15 @@
+#include <stdio.h>
+
+/**
+ * main - base 10 numbers
+ * Return: 0 always
+ */
+int main(void)
+{
+	int num;
+
+	for (num = 0; num < 10; num++)
+		printf("%d", n);
+	printf("\n");
+	return (0);
+}
