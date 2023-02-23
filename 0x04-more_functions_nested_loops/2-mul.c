@@ -1,4 +1,4 @@
-#include <stdio>
+#include <stdio.h>
 /**
  * mul - multiply two integers
  * Return: the multiple
