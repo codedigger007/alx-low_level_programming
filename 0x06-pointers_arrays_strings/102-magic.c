@@ -1,5 +1,9 @@
 #include <stdio.h>
 
+/**
+ * main - a magic trick
+ * Return: Always zero
+ */
 int main(void)
 {
 	int n;
